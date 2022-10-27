@@ -493,6 +493,31 @@
       <to>Table output</to>
       <enabled>Y</enabled>
     </hop>
+    <hop>
+      <from>CSV file input 2</from>
+      <to>Table output</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>CSV file input 3</from>
+      <to>Table output</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>CSV file input 4</from>
+      <to>Table output</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>CSV file input 5</from>
+      <to>Table output</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>CSV file input 6</from>
+      <to>Table output</to>
+      <enabled>Y</enabled>
+    </hop>
   </order>
   <step>
     <name>CSV file input</name>
@@ -830,7 +855,7 @@
     </remotesteps>
     <GUI>
       <xloc>224</xloc>
-      <yloc>272</yloc>
+      <yloc>304</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
